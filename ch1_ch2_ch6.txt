@@ -1,0 +1,74 @@
+Chapter One: Worldviews
+=======================
+
+Aristotle's beliefs
+- Earth is the center
+- Everything orbit Earth
+- 4 basic elements make up everything on earth
+- theres a 5th called ether that makes up planets and stars
+
+His beliefs were not random and in fact they fit together like a system or a puzzle
+
+core vs periphery
+----------------
+core = unchanging beliefs like earth being the center of the universe
+periphery = things that could be easily changed like there only being 5 planets
+
+Aristotle world view vs Plato
+
+with the arrival of the Telescope allowed people to understand that they revovled around the sun
+and that there were more than 5 planets
+
+We ourselves almost never have strict evidence that we revolve around the sun
+It instead relies on the trust of our teachers/experts/and book writers
+Much like a jigsaw puzzle ^
+
+Chapter Two: Truth
+=================
+
+to compare the accuracy of a representation (like a photo) we must go in real life to compare the photo to what was photographed
+
+the next issue is our eyes. If we see an apple, to know its true we must "step out of our consciousness"
+    - yet that is impossible
+
+Using the total recall example, we can never know if our reality is true
+   -  or implanted in his, the technology is just too good
+
+the point is not to explain that there is an issue with our reality, just that we can never be sure that our reality is true. 
+
+Chapter 6: Problems and Puzzles of Induction
+============================================
+
+- A philosophical interlude
+    - they illustrate some deeply puzzling aspects of some of the reasoning in science
+    - may seem simple/trivial at first,  yet they do not admit easy answers
+
+*** Hume's Problem of Induction ***
+
+- our arguements always contain implied premises
+- "The bus runs on sundays"
+- Hume saw that "the future will continue to be like the past"
+
+* What reason do we have to believe that the future will continue to be like the past *
+
+- since we have lived it we can assume it, yet this also relies on the assumption that the future will continue to be like the past
+- Hume was not trying to tell people that they should not believe the future is like the past since its all we know
+- yet he wanted to bring up the point that can we logically prove it? and the answer is no.
+
+*** Hempel's Raven Paradox ***
+
+- (a) all quasars are located a great distance from Earth
+- (b) all objects not located a great distance form Earth are not quasars
+
+ex. a book in your hands is not a great distance from earth and therefore not a quasar
+- his point is that there is something odd about a very basic pattern of inductive reasoning
+- support for (a) or (b) equally enforces (a) or (b)
+
+*** Goodman's Gruesome Problem ***
+
+projectible and nonprojectible predicates
+- hard to tell the difference between them
+- emerald = green and grue until after new years 2020
+- emerald = green and not grue
+
+The main idea is that there is questioning within our reasoning and especially about the differences between predicates whose use we are confident can be projected into the future and those that cant

@@ -1,0 +1,66 @@
+Lecture 3: Scientific Method
+============================
+
+Review:  Sensations, Induction, Theory Ladeness
+
+- Some theories are better than others
+    - what makes one theory better than another
+
+What is acceptance?
+
+Acceptance = a theory is said to be accepted if its the best available description of its object
+Use = a theory is used when it as a practical application
+Pursuit = worthy of further development (WE'RE LIVING IN THE SIMULATION)
+
+depending on where you lie in time, different theories are in the different categories of Acceptance, Use, Pursuit
+
+Pursuit - difficult to speak about since you can't tell whats going to be in the future
+Use - tools in the toolbox, not whats accepted/not accepted, just adding more tools (eng approach)
+
+Acceptance - cannot accept multiple theories, just ONE best one
+    - question is how do we decided which is the best?
+
+** Theory Assessment **
+    - the method of apprasial to determine which theory is better with the current evidence
+        - Scientific Method
+
+Method =  a set of requirements for employment in theory assessment
+Methods should not be confused with methodology = which is EXPLICIT requirements
+    - instead method is the actual expectations of the scientific community / methodology are the rules prescribed by the community as the correct way of doing science
+
+Research Technique = how people come up with ideas (group brainstorm)
+
+Current Scientific Method: Does a new theory try to modify the accepted ontology
+
+If No: in order to become accepted the new theory must fit the known data with more precision and accuracy than accepted theory
+
+If Yes: In order to become accepted the new theory must also provide confirmation predictions of hitherto unobserved phenomena
+
+Sometimes we are okay with accuracy and prediction
+
+Hypothetic-Deductive method - a hypothesis is allowed to assume something as long as it predicts something novel, and smore of these novel predictions are confirmed
+    - question: is this method unchangeable? (NO)
+
+(1600s)
+A proposition or theory would be acceptable if: 
+    1. it grasps the nature of a thing through intuition
+    2. It it was proven inductivley
+
+People could send a theory but if it did not seem intuitivly true they would not want to listen to your theories
+Decarte wanted to created a system that would satisify the Aristitlian community at the time
+    - tore it down and built it from the ground up using their theories
+
+Summary 
+
+Method: Static vs Dynamic
+Is there an unchangable method of science?
+    Yes, Static Method thesis: the method of science is unchangeable
+    No, Dynamic Method Thesis: there is no unchangeable method of science
+
+There is no fixed method of science even though many people in history have believed there were specific rules
+
+Scietnfic Mosiac = a set of accepted theories and employed methods
+
+Question: If there are no fixed methods of theory evaluation, does it mean that the process of scientific change is irrational?
+
+Next Time: Mechanism of Scientific Change

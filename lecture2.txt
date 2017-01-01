@@ -1,0 +1,75 @@
+Lecture 2: Absolute Knowledge
+==============================
+
+- scientific theories change over time (along with every discipline)
+- the question is anything ** Unchangeable **
+- Is there ** Absolute ** knowledge
+
+Case 1: Mathematics
+    - prop: (1 + 2 = 3)
+    - what makes this prop true
+    - proving through definitions
+    - dont need experience/observations
+
+Case 2: Swans
+    - prop: all swans are white
+    - Swans A,B,C are white therefore all swans are white
+    - based on our individual experience of white swans
+
+Case 3: Gravity
+    - explains the Law of Gravity, force of attraction between two objects
+    - how do we justify this law, this is either similar to case1 or case2
+    - closer to Case 2: Swans
+    - go out an observe a falling apple, waterfall and the earth
+
+Analytic Propositions - deducible from definitions, can NEVER contridict
+    - ie a bachalor who is married can never exist (impossible)
+    - cannot concieve of a world where this is not the case?
+    - math example
+
+Synthetic Propositions - not deducible from definitions
+    - can contridict each other
+    - can easily concieve of a world where this is not the case for gravity
+    - another example is Law of Diminishing Returns (not always true for return per unit)
+    - swans / gravity here
+    - can easily think of a world with different biological laws like Dragons 
+
+Can analytic propositions be absolutely certain?
+    - Answer: Yes, since things are true through definitions
+    - nothing can challenge this
+
+Synthetic Props - all object p's have property q
+    - have to observe this
+    - yet we cannot be abosolutly certain
+    - Answer: No, synthetic props cannot be absolutely certain
+
+    Problem 1: Sensations
+        - Swans exist in reality
+        - now swans in the brain, sensations of swans (as I see them)
+        - how can we ever be sure of the things we precieve to be reality
+        - to check we have to confirm through other sensations, but this in lies a problem
+        - holy shit this is boring,  kids are just trying to disprove him
+        - we are in no position to be able to trust our senses
+
+    Problem 2: Induction
+        - suppose we can trust our sensations
+        - how can we ever arrive at an inductive conclusion if we only sense things in singular objects
+        - individual -> general = induction
+        - in the future whatever swan i observe will be white
+        - PROBLEM: there is always a chance there will be a black swan, 
+            - even if you have covered ALL existing swans, does that mean future swans cant be black? NO
+        - will never be in a position to study all planets
+        - can make no gaurentees
+
+    Problem 3: Theory-Ladenness
+        - theories that layer ontop of theories
+        - trusting a telescope to see into space, trusting the optics created by scientists
+        - see an apple? again accepting sensations produced under proper illumination, being sober
+        - we rely on basic animal like physiology
+
+Summary:
+Problem of Sensations - senses arent 100% trustworthy
+Problem of Induction - no matter how many time observed
+Problem of Theory Ladness - theories relying on theries
+
+Infalliblism to Fallibilism
