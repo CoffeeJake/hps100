@@ -1,0 +1,62 @@
+Lecture 4: Law of Scientific Change
+===================================
+
+Can there be a gerneral def/theory that desribes sci change
+
+If Yes: Generalism 
+If no: Particularism (what is generally accepted today)
+    1. There is no universal and fixed method of science
+    2. No universal features (no permenant fixtures)
+
+Drug Testing 1: (anti-depressant)
+    1. find people that suffer from the condition
+    2. give them the drug
+    YET
+    Time has told that other factors have also played into getting better
+        - how can you be sure unaccounted effects dont enter the picture
+        - ANSWER: control trial
+
+    2 groups: 1 gets drug, 1 doesnt
+    Yet he is missing out on the placebo effect
+
+    To answer that we get a blind trial
+        - one group gets a fake pill
+
+    experimenters bias - sub concious clues to the fake pill group
+        - now you do no researchers
+
+    A hypothetico deductive method -> lead to unaccounted effects -> lead to new kinds of experiments
+
+Ex 2: Repeatability
+    - issue is one time events
+    - even the hypthetico deductive method relies on other theories
+        - the idea that the way the world works,  is based on a complex inner mechanism
+            - theory of complexity
+        - next is the post hoc explanations
+            - idea that everything can be explained again, equally precise
+            - everyone might be smart after the fact
+            - as long as it predicts something novel
+
+Aristotelian-Medieval Method: Nature of Things, a thing as its nature an indispensable quality
+    - acorns = oak trees, its indispensable quality
+2nd an experieanced person, could grasp the nature of a thing(like the acorn)
+
+    Only one thing is needed for a proposition in th eAristotelian-Medieval Method
+        - acceptable if deductable, of the theories of the time
+        - true for ALL cases of method of deployment
+
+Scientific Change: the Laws
+============================
+
+0th Law: Compatability: at any moment of time, the elements of the mosiac are compatible with each other
+
+Structure of a Method: has 3 components
+    1. Acceptance Criteria (acceptable or not)
+    2. Demarcation Criteria (scientfic or not)
+    3. Compatatility Criteria (compatible or incompataible)
+
+- Only one counter example is sufficient to counteract some theories
+- often you will want to make sure that the counter example is true
+
+emperical theories are not perfect
+
