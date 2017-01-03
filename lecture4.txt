@@ -60,3 +60,27 @@ Structure of a Method: has 3 components
 
 emperical theories are not perfect
 
+2nd Law: Theory Acceptance
+=========================
+- have to be assesed by the methods actually employed at the time
+
+1st Law: Scientific Inertia
+=============================
+- an accepted theory remains accepted until a new theory appears
+
+Theory Rejection Theorem = take each prop individuall and see if each theory is compataible
+    - if not it gets cut
+
+Contextual Appraisala Theorem = an appraisal of a proposed modification to the current mosaic
+    - only if it satisifes the current requirements
+
+Mosaic Split Theorem = what happens when 2 incompatible theories satsify the requirements of the time
+    - then they BOTH become accepted
+        - yet they are incompatible
+            - what happens is a Mosaic Split
+            - differenet communities teaching different sets of theories
+
+"Scientific Revolution" = Descartes vs Newton
+    - lead to a split like this
+    - dont really understand this
+
