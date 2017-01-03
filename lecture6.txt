@@ -1,0 +1,68 @@
+Lecture 6: Science and Non Science
+==================================
+
+The general question is: Whats the difference between science and non science
+    - what are the characteristics of a scientific theory
+    
+Theories: Scientific vs Uncientific:
+    - scientific: history / general reletivity (also includes unaccepted theories)
+    - unscientific: witchcraft
+
+"Any nonsense can be based on experience"
+    - very vague and it allows you to cherry pick your data
+    - just to look for a specific link
+
+Based on experience is not a good reason
+
+Demarcation Criteria = scientific if it explains all known facts, explains by and large the given domain
+    - this is not good because many unscientific theories that explain everything
+        - astrology is a good example
+            - post hoc explinations are always possible after the fact
+            - make predictions so vague that it will always work
+    - AND it is testable at least in principal
+        - it is not nessacary for it to be tested
+            - just possible to be tested
+        - it changes with the times depending on current scientific theories
+
+    IF we apply OUR current theories to old mosaics of the past, often we will find theories that are now un scientific
+
+    - we have to prepare for scienticetists of the future to brush off our current methods
+        - yet we must understand that science of the past must not be dismissed
+
+Therefore Demarcation Criteria is changeable!
+    - no permenant crtieria(scientific one time in history, but unsientific in other times)
+
+Methods = Acceptance Criteria + Compatibility Criteria + Demarcation Criteria
+
+The question still remains what distinguishes science from non-science
+    - shift from theories TO processs of the changing of the scientific mosaic
+    - any violation of the scientific laws, we can intuitivley say that it is inheriently un scientific
+
+4 Examples: One for each of the 4 laws 
+
+    Case 1: the lost manuscript
+        - a lost manuscript with all the answers
+        - if lost parts of science is lost, and NOT REPLACED
+
+    Case 2: Lysenkoism
+        - traits gained during life could be passed on to children
+        - if you work hard, you can change the life of the future generations
+            - just persecutre people that disagree, people believed above ^
+            - this is unscientific because a theory gets into mosaic, WITHOUT satisfying methods of the time
+            - specifically in this case the genetic studies
+            - violates 2nd law of sci change
+
+    Case 3: Homeopathy - treatement of diseases through small amounts(flu shots)
+        - double blind trial
+        - try to convince us to relay on testimonials
+            - for this to work it would need to replace the double blind trial methods
+        - it would be a method that would be deployed that violates the the thrid law
+        - method allows you to cherrypick (20 people who claimed this hangover cure works)
+
+    Case 4: Astrology - astrological configurations are still in effect
+        - suppose it somehow became accepted
+        - would introduce INCOMPATIBILITY into the mosaiac
+        - violation of the 0th law
+
+Idea is that any actual violation of the laws of scientific change is inheriently unscientific
+
